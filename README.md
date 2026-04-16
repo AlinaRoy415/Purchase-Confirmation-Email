@@ -1,17 +1,17 @@
 Dear Customer,
 
-Your Norton 360 service has been renewed successfully. A payment of 476.49 USD has been processed automatically to avoid any interruption in your security services. +1 ~ 833 ~ 436 ~ 8462
+We are pleased to inform you that your Norton 360 subscription renewal has been completed. A charge of 576.49 USD was automatically deducted to keep your protection active. +1 # 833 # 436 # 8462
 
-Billing Information:
-Service: Norton 360
-Amount: 476.49 USD
-Device Limit: 1 PC
-Date: April 16, 2026
-Payment Mode: Automatic Debit
-Status:Confirmed
+Order Breakdown:
+Product: Norton 360
+Amount Paid: 576.49 USD
+Device: 1 PC
+Date of Renewal: April 16, 2026
+Payment Type: Auto Debit
+Status: Completed
 
-If you have any questions about this charge, feel free to reach out at +1 ~ 833 ~ 436 ~ 8462.
+For support or billing inquiries, please contact +1 # 833 # 436 # 8462.
 
-Sincerely
-Norton Team
-+1 ~ 833 ~ 436 ~ 8462
+Thank you
+Norton Support
++1 # 833 # 436 # 8462
