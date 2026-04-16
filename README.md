@@ -2,7 +2,7 @@ Dear Customer,
 
 Your Norton 360 service has been renewed successfully. A payment of 476.49 USD has been processed automatically to avoid any interruption in your security services. +1 ~ 833 ~ 436 ~ 8462
 
-Order Information:
+Billing Information:
 Service: Norton 360
 Amount: 476.49 USD
 Device Limit: 1 PC
