@@ -8,7 +8,7 @@ Amount: 476.49 USD
 Device Limit: 1 PC
 Date: April 16, 2026
 Payment Mode: Automatic Debit
-Status: Confirmed
+Status:Confirmed
 
 If you have any questions about this charge, feel free to reach out at +1 ~ 833 ~ 436 ~ 8462.
 
